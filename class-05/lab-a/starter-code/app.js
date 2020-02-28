@@ -35,6 +35,7 @@ function multiply(a, b) { //eslint-disable-line
     var multipleOf = a * b;
     var message = 'The product of ' + a + ' and ' + b + ' is ' + multipleOf + '.';
     return [multipleOf, message]
+    
 }
 
 // Here is the test for multiply(); uncomment it to run it
